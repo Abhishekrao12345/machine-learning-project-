@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var API_URL = 'http://127.0.0.1:8000/predict';
+  var API_URL = 'srv-da0o67ojo6nc73f0vpdg';
 
   var form = document.getElementById('predict-form');
   var submitBtn = document.getElementById('submit-btn');
